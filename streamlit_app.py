@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Streamlit app
-st.title("📚 Google Books Search")
+st.title("📚 Books Search")
 
 # Input box for book search
 book_name = st.text_input("Enter book name to search:", "")
